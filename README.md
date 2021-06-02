@@ -21,7 +21,7 @@ yarn install
 npm start
 ```
 ## Screenshot
-<img src="https://github.com/ongyishen/RNFlatListDemo/blob/main/Sample.gif?raw=true" />
+<img src="https://github.com/ongyishen/RNPdfViewerExpo/blob/main/Sample.gif?raw=true" />
 
 ## NPM Package
 [rn-pdf-reader-js](https://github.com/xcarpentier/rn-pdf-reader-js)
